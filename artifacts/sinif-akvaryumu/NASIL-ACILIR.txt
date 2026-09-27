@@ -1,0 +1,13 @@
+Sınıf Akvaryumu — bilgisayarda nasıl açılır
+==========================================
+
+Kurulum YOK. Bu bir program değil, tarayıcıda açılan bir sayfadır.
+
+1. Bu zip'i bir klasöre çıkarın (sağ tık → Tümünü ayıkla).
+2. Sinif-Akvaryumu.html dosyasına çift tıklayın.
+3. Chrome veya Edge ile açılsın.
+
+Açılmazsa:
+- Dosyaya sağ tık → Birlikte aç → Google Chrome (veya Microsoft Edge)
+
+İnternet gerekmez. Öğrenci puanları o bilgisayarın tarayıcısında saklanır.

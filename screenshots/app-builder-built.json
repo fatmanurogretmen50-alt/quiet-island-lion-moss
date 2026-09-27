@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sınıf Akvaryumu",
+      "hasCanvas": false,
+      "bodyTextLen": 180,
+      "bodyTextHash": "912125b7fe544575f54b8f99941201c76948536fe18c7693470b06c8cbf52974",
+      "bodyTextPrefix": "Yeni Balık Ekle ＋ BALIK EKLE Balık Listesi Ali ★ 8 Elif ★ 12 Mer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sınıf Akvaryumu",
+      "hasCanvas": false,
+      "bodyTextLen": 180,
+      "bodyTextHash": "912125b7fe544575f54b8f99941201c76948536fe18c7693470b06c8cbf52974",
+      "bodyTextPrefix": "Yeni Balık Ekle ＋ BALIK EKLE Balık Listesi Ali ★ 8 Elif ★ 12 Mer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (217 -> 180 chars, hash mismatch)"
+  ]
+}

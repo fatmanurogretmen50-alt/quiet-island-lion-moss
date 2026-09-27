@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sınıf Akvaryumu",
+      "hasCanvas": false,
+      "bodyTextLen": 217,
+      "bodyTextHash": "f87ae63e70ecb9d69ebed795b1f67d125b1a0327c3d52e57a8be3d46518e59b8",
+      "bodyTextPrefix": "Yeni Balık Ekle ＋ BALIK EKLE Ali ★ 8 Elif ★ 12 Mert ★ 5 Ayşe ★ 1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sınıf Akvaryumu",
+      "hasCanvas": false,
+      "bodyTextLen": 180,
+      "bodyTextHash": "912125b7fe544575f54b8f99941201c76948536fe18c7693470b06c8cbf52974",
+      "bodyTextPrefix": "Yeni Balık Ekle ＋ BALIK EKLE Balık Listesi Ali ★ 8 Elif ★ 12 Mer",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
